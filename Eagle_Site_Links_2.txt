@@ -1,0 +1,3 @@
+first.xlsx;https://eagledocs.atlassian.net/wiki/spaces/EAGLEML/pages/251921278/Warehouse+Open+Lot+Data+Map+Table
+second.xlsx;https://eagledocs.atlassian.net/wiki/spaces/EAGLEML/pages/251920734/Entity+To+Composite+Data+Map+Table
+third.xlsx;https://eagledocs.atlassian.net/wiki/spaces/EAGLEML/pages/251923260/Generic+SMF+-+Equity+Model+Data+Map+Table
